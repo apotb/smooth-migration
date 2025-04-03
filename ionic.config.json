@@ -1,5 +1,7 @@
 {
   "name": "Smooth Migration",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
