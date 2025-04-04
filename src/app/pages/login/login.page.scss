@@ -10,5 +10,17 @@ ion-button[color="dark"]{
 }
 
 ion-content {
-  --background: var(--ion-color-secondary);
+  --background: var(--ion-color-primary);
+}
+
+#card-border {
+  position: relative;
+  width: fit-content;
+  height: fit-content;
+}
+
+#login-planet {
+  position: absolute;
+  top: -30%;
+  left: -50%;
 }
