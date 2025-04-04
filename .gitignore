@@ -1,0 +1,20 @@
+# Ionic Project
+.angular/cache/
+coverage/
+dist/
+hooks/
+log.txt
+*.log
+node_modules/
+npm-debug.log*
+platforms/
+temp/
+tmp/
+www/
+
+# Local Machines
+.DS_Store
+Thumbs.db
+UserInterfaceState.xcuserstate
+.vscode/
+.idea/

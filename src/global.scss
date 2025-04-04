@@ -25,6 +25,15 @@
 @import "@ionic/angular/css/text-transformation.css";
 @import "@ionic/angular/css/flex-utils.css";
 
+:root {
+  --ion-color-primary: #175873;
+  --ion-color-primary-rgb: 23, 88, 115;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #12465c;
+  --ion-color-primary-tint: #45798f;
+}
+
 /**
  * Ionic Dark Mode
  * -----------------------------------------------------
