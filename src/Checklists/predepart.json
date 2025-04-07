@@ -1,0 +1,54 @@
+{
+    "International" : {
+        "Immigration Documents": [
+            "Take the IELTS/CELPIP Exams for English Literacy",
+            "Get all relevant documents copied and certified",
+            "Arrange and Collect birth and marriage certificates",
+            "Arrange Visa Photos",
+            ""
+        ],
+        "Children": [
+            "Ensure children have the necessary documentation as well as parents",
+            "Give notice to the school about the move",
+            "Make sure children are vaccinated and have documentation",
+            ""
+        ],
+        "Vehicle": {
+            "Renting": [
+
+            ],
+            "Bringing": [
+
+            ]
+        },
+        "Pets": [
+            "Make sure to have Pet Documentation as needed by your travel agency, such as vaccination records",
+            "Get Pet Passports cleared for flight",
+            "Make sure they have all needed and relevant shots"
+        ],
+        "Phone" : [
+
+        ],
+        "default" : [
+
+        ]
+    }, 
+    "Domestic" : {
+        "Children" : [
+
+        ],
+        "Vehicle" : [
+
+        ], 
+        "Pets" : [
+
+        ],
+        "Phone" : [
+
+        ],
+        "default" : [
+            
+        ]
+    }
+
+}
