@@ -24,30 +24,49 @@
         "Pets": [
             "Make sure to have Pet Documentation as needed by your travel agency, such as vaccination records",
             "Get Pet Passports cleared for flight",
-            "Make sure they have all needed and relevant shots"
+            "Make sure they have all needed and relevant shots",
+            "Have the vaccination records on file for all pets"
         ],
         "Phone" : [
 
         ],
-        "default" : [
+        "Realtor" : [
 
+        ],
+        "default" : [
+            "Downsize belongings and get rid of what is not needed or wanted in the new location",
+            "Compile goods to accompany and goods to follow list",
+            ""
         ]
     }, 
     "Domestic" : {
         "Children" : [
-
+            "Give notice to the school about the move",
+            "Make sure children are vaccinated and have documentation",
+            ""
         ],
-        "Vehicle" : [
+        "Vehicle" : {
+            "Renting": [
 
-        ], 
+            ],
+            "Bringing": [
+
+            ]
+        }, 
         "Pets" : [
-
+            "Make sure they have all needed and relevant shots",
+            "Have the vaccination records on file for all pets"
         ],
         "Phone" : [
 
         ],
+        "Realtor" : [
+
+        ],
         "default" : [
-            
+            "Downsize belongings and get rid of what is not needed or wanted in the new location",
+            "Compile goods to accompany and goods to follow list",
+            ""
         ]
     }
 
