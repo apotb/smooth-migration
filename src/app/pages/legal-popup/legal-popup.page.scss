@@ -1,0 +1,20 @@
+ion-content {
+  --padding-bottom: 10px;
+  --padding-end: 40px;
+  --padding-start: 40px;
+  --padding-top: 20px;
+}
+
+.choices {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  column-gap: 10%;
+  padding-bottom: 25px;
+  padding-top: 15px;
+}
+
+.choices ion-button {
+  transition: all 0.7s ease;
+}
