@@ -58,12 +58,15 @@ export class LoginPage implements OnInit {
       if (this.loginForm.valid) {
           //TODO: API Check for account
           // email && password are actual account
-          if (this.password === "root") {
+          if (this.password === "test") {
               if (1 === 1 /* Individual has never signed in before, open legal */) {
+                  //REMOVE: Get rid of the queryParams part once we have user authentication
                   this.router.navigate(['/legal-popup']);
               } else { /* Signed in before, just go to tabs */
                   this.router.navigate(['/tabs']);
               }
+          } else if (this.password === "root") {
+                this.router.navigate(['/tabs']);
           } else {
               this.emailError = "Account not found";
               this.passwordError = "Account not found";
